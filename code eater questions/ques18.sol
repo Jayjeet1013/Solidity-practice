@@ -1,3 +1,5 @@
+//search number in an array
+
 //SPDX-License-Identifier: MIT
 
 pragma solidity ^0.8.17;
