@@ -1,7 +1,7 @@
 //check whether no. is armstrong or not
 //SPDX-License-Identifier: MIT
 
-pragma solidity^0.8.17;
+pragma solidity^0.8.14;
 
 contract armstrongNo{
     function armstrong(uint n) public pure returns(uint) {
